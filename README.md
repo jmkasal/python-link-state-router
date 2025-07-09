@@ -14,7 +14,7 @@ This project implements an asynchronous routing protocol using Python. It includ
 
 - `lsn_async.py`: Contains the implementation of the `LinkStateNode` class, which simulates a network node.
 - `link_state_database.py`: Implements the `LinkStateDatabase` class for managing link state packets and their TTLs.
-- `ip_prefix_trie.py`: Provides a prefix trie implementation for efficient IP prefix matching and manipulation. (Will be used in later version of project
+- `ip_prefix_trie.py`: Provides a prefix trie implementation for efficient IP prefix matching and manipulation. (Will be used in later version of project)
 
 ## Requirements
 
